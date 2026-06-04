@@ -1,4 +1,4 @@
-# aula-ci/cd
+# aula-ci/cd completo
 
 API REST de tarefas em **Express + TypeScript** usada como projeto base do curso **Fundamentos de CI/CD**.
 
