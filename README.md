@@ -1,3 +1,5 @@
+![CI](https://github.com/andre-webcode/aula-ci-cd/actions/workflows/ci.yml/badge.svg?branch=develop)
+
 # aula-ci/cd completo
  
  1.0
